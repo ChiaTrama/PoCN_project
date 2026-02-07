@@ -1,0 +1,11 @@
+nodeID_from,nodeID_to,country_name,country_ISO3
+1,2,TJK,TJK
+1,3,TJK,TJK
+1,4,TJK,TJK
+1,5,TJK,TJK
+2,3,TJK,TJK
+2,4,TJK,TJK
+2,5,TJK,TJK
+3,4,TJK,TJK
+3,5,TJK,TJK
+4,5,TJK,TJK

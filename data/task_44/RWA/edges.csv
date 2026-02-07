@@ -1,0 +1,11 @@
+nodeID_from,nodeID_to,country_name,country_ISO3
+1,2,RWA,RWA
+1,3,RWA,RWA
+1,4,RWA,RWA
+1,5,RWA,RWA
+2,3,RWA,RWA
+2,4,RWA,RWA
+2,5,RWA,RWA
+3,4,RWA,RWA
+3,5,RWA,RWA
+4,5,RWA,RWA

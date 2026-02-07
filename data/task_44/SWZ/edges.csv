@@ -1,0 +1,7 @@
+nodeID_from,nodeID_to,country_name,country_ISO3
+1,2,SWZ,SWZ
+1,3,SWZ,SWZ
+1,4,SWZ,SWZ
+2,3,SWZ,SWZ
+2,4,SWZ,SWZ
+3,4,SWZ,SWZ

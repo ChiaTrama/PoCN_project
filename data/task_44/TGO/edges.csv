@@ -1,0 +1,11 @@
+nodeID_from,nodeID_to,country_name,country_ISO3
+1,2,TGO,TGO
+1,3,TGO,TGO
+1,4,TGO,TGO
+1,5,TGO,TGO
+2,3,TGO,TGO
+2,4,TGO,TGO
+2,5,TGO,TGO
+3,4,TGO,TGO
+3,5,TGO,TGO
+4,5,TGO,TGO

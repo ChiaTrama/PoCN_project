@@ -1,0 +1,11 @@
+nodeID_from,nodeID_to,country_name,country_ISO3
+1,2,ERI,ERI
+1,3,ERI,ERI
+1,4,ERI,ERI
+1,5,ERI,ERI
+2,3,ERI,ERI
+2,4,ERI,ERI
+2,5,ERI,ERI
+3,4,ERI,ERI
+3,5,ERI,ERI
+4,5,ERI,ERI

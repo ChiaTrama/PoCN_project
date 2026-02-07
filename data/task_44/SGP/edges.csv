@@ -1,0 +1,11 @@
+nodeID_from,nodeID_to,country_name,country_ISO3
+1,2,SGP,SGP
+1,3,SGP,SGP
+1,4,SGP,SGP
+1,5,SGP,SGP
+2,3,SGP,SGP
+2,4,SGP,SGP
+2,5,SGP,SGP
+3,4,SGP,SGP
+3,5,SGP,SGP
+4,5,SGP,SGP

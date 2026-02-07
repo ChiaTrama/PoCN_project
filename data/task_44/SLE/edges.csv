@@ -1,0 +1,7 @@
+nodeID_from,nodeID_to,country_name,country_ISO3
+1,2,SLE,SLE
+1,3,SLE,SLE
+1,4,SLE,SLE
+2,3,SLE,SLE
+2,4,SLE,SLE
+3,4,SLE,SLE
